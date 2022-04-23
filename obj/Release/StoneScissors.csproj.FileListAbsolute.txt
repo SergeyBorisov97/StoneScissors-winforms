@@ -1,0 +1,12 @@
+D:\Programming\StoneScissors\bin\Release\StoneScissors.exe.config
+D:\Programming\StoneScissors\bin\Release\StoneScissors.exe
+D:\Programming\StoneScissors\bin\Release\StoneScissors.pdb
+D:\Programming\StoneScissors\obj\Release\StoneScissors.csprojAssemblyReference.cache
+D:\Programming\StoneScissors\obj\Release\StoneScissors.Form1.resources
+D:\Programming\StoneScissors\obj\Release\StoneScissors.Properties.Resources.resources
+D:\Programming\StoneScissors\obj\Release\StoneScissors.csproj.GenerateResource.cache
+D:\Programming\StoneScissors\obj\Release\StoneScissors.csproj.CoreCompileInputs.cache
+D:\Programming\StoneScissors\obj\Release\StoneScissors.exe
+D:\Programming\StoneScissors\obj\Release\StoneScissors.pdb
+D:\Programming\StoneScissors\obj\Release\StoneScissors.Form2.resources
+D:\Programming\StoneScissors\obj\Release\StoneScissors.Form3.resources
